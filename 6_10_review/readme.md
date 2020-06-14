@@ -1,13 +1,18 @@
 # Schwab Market Perspective Schwab市场前景分析
-Mny have been confounded by the stock market's surge since March 23rd amid less-than-rosy U.S. economic data. That disconnect narowed on THursday, as jitters about a potential second wave of COVI-19 infections, along with a grim economic outlook from the Federal Reserve - drove investors out of riskier assets and led to a 5.9% drop in the S&P 500 index.
+Many have been confounded by the stock market's surge since March 23rd amid less-than-rosy U.S. economic data. That disconnect narrowed on Thursday, as jitters about a potential second wave of COVID-19 infections, along with a grim economic outlook from the Federal Reserve - drove investors out of riskier assets and led to a 5.9% drop in the S&P 500 index.
 
-Ongoing volatility underscores the precariousness of the recent rally. Even as the S&P 500 index rallied to recoup much of hte losses made since its March 23rd low, we have cautioned that a second wave of coronavirus cases could upend invester confidence, raising the prospect of a fresh round of social-distancing restrictions or layoffs.
+由于美国经济数据不太乐观，许多人对3月23日以来股市的飙升感到困惑。周四，由于对可能出现的第二波新冠病毒感染的担忧，以及美联储对经济前景悲观的预期，投资者纷纷撤离风险较高的资产，导致标准普尔500指数下跌5.9%。
+
+Ongoing volatility underscores the precariousness of the recent rally. Even as the S&P 500 index rallied to recoup much of the losses made since its March 23rd low, we have cautioned that a second wave of coronavirus cases could upend investor confidence, raising the prospect of a fresh round of social-distancing restrictions or layoffs.
+
+持续的波动凸显了近期反弹的不稳定性。尽管标普500指数反弹，收复了自3月23日低点以来的大部分损失，但我们担心第二波新冠病毒病例可能会颠覆投资者信心，增加新一轮社会隔离措施和裁员的可能性。
 
 ## U.S. stocks and economy: Mixed signals 美国股市和经济：好坏参半
 In recent weeks, the gap between economists' estimates and actual May U.S. payroll gains caused Citi's Economic Surpirse Index to spike. The series, which measures data surprises relative to market expectations, has recovered from its deep plunge into negative territory, confirming that data in the pst wek have continued to come in better than anticipated - although remaining very week in absolute terms.
 
-在最近几个礼拜中， 美国五月份收入数据上升同经济学家的预期之间大差距让花旗银行金融意外指数大跌眼镜（又要甩锅经济学家么）。这个统计相对市场预期实际数据带来的意外指数从3月份的低谷中渐渐恢复，证实了过去一周的数据保持良好的表现，虽然从客观的角度说还是较为弱势（摸棱两可的判断，只挑安全的话讲）。
+在最近几个礼拜中， 美国五月份收入数据上升同经济学家的预期之间大差距让花旗银行金融意外指数大跌眼镜（又要甩锅经济学家么）。这个统计相对市场预期实际数据带来的意外指数从3月份的低谷中渐渐恢复，证实了过去一周的数据保持良好的表现，虽然从客观的角度说还是较为弱势。
 ![The Citi Economic Surprise Index rose sharply recently 花旗经济意外指数近期大幅上升](Citi.png)
+*The Citi Economic Surprise Index rose sharply recently 花旗经济意外指数近期大幅上升*
 
 Source: Charles Schwab, Bloomberg, as of 6/10/2020.
 
@@ -91,4 +96,4 @@ Federal Reserve policy has been the major driver behind returns in the fixed inc
 
 过去几个月，美联储的政策一直是推动固定收益市场的主要因素。自3月中旬美联储出售帮助向市场提供流动性以来，收益率曲线直线上扬，市场中风险较高板块的债券表现优于美国债券 ———— 这趋势与经济好转有关。我们仍旧担心市场对经济复苏过于乐观。
 
-
+![Fixed income asset class total returns, year-to-date](return.png)
