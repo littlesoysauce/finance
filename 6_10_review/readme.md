@@ -112,3 +112,33 @@ Federal Reserve policy has been the major driver behind returns in the fixed inc
 *Fixed income asset class total returns, year-to-date 固定收益资产类别今年至今的总回报率*
 
 ![Fixed income asset class total returns, year-to-date](return.png)
+
+Source: Bloomberg. Returns from 12/32/2018 through 6/8/2020
+
+The Fed's low-interest-rate policy and various facilities are providing support for the economy and liquidity to the markets. By lowering short-term rates to near zero and adding bonds to its balance sheet, the Fed managed to ease the panic in the markets that drove 10-year Treasury bond yields to all-time lows in March. As the outlook has brightened, investors have moved out of safe-haven Treausires in search of higher yeilds in other markets. Yields for intermediate - to long-term Treausires have moved up, while short-term yields remain anchored near zero by Fed policy, resulting in a steepening of the yield curve.
+
+美联储的低利率和各种工具为经济和市场流动性提供了支持。通过将短期利率降至接近零的水平，并将债权纳入其资产负债表，美联储设法缓解了市场的恐慌情绪，这场恐慌导致3月份10年期美国国债收益率跌至历史低点。随着前景看好，投资者纷纷撤离避险资产，在其他市场寻求更高收益。中长期美国国债收益率有所上升，而美联储政策仍将短期国债收益率维持在接近零的水平，导致收益率曲线变陡。
+
+*Treasury yield curve has steepened since January 美国国债收益率曲线自1月以来已趋陡峭*
+
+![Treasury yield curve has steepened since January](yield.png)
+
+Source: Bloomberg as of 6/8/2020 and 1/1/2020.
+
+While we expect the economy to recover in the second half of the year, the move up in longer-term yields may be discounting a more robust recovery than is likely. Many states still have restrictions on business activity and it's not clear how long it will take for consumer demand to rebound. Moreover, inflation is likely to remain low in light of very high unemployment, and excess capacity in many industries. We expect 10-year Treasury yields could rise to about 1% in the second half of the year, but not much higher unless growth exceeds our expectations. Consequently, although we expect the yield curve to stay positively sloped, we don't look for much more of an increase in yields from current levels.
+
+虽然我们预计下半年经济将复苏，但长期收益率的上升可能会使复苏的势头减弱（是因为资金流入长期债券减少了市场消费吗？）。许多州对商业活动仍有限制。消费者需求反弹需要多长时间尚不清楚。此外，鉴于失业率居高不下，以及许多行业产能过剩，通胀率可能保持在低位。我们预计，10年期美国国债收益率在下半年可能升至1%左右，但除非增长超出我们的预期，否则不会有太高的涨幅。因此，尽管我们预计收益率曲线将保持正倾斜，但我们并不指望收益率比目前水平有更多的增长。
+
+We continue to suggest investors keep the average durations in their portfolios somewhat below their benchmarks since interest rates are so slow. However, we wouldn't suggest moving all of a fixed income allocation to very short-term maturities, as we expect the Fed to keep short-term rates near zero until at least the end of 2021.
+
+我们继续建议投资者将投资组合的平均期限保持在低于基准的水平，因为利率如此之低。不过，我们不建议将所有固定收益配置调整为短期债券，因为我们预计美联储至少在2021年底之前将保持短期利率接近于零（Fed说要保持到2022年）。
+
+In the corporate bond market, we still expect to see more credit rating downgrades to highly leveraged companies in the investment-grade market and a wave of defaults in the high-yield market. After the sharp rally, there is less compensation in the form of extra yield in the market for those risks than just a few weeks ago. We suggest investors avoid too much exposure to lower-rated corporate bonds and focus on issuers with stronger balance sheets that can weather the ups and downs of the recovery.
+
+在公司债券市场，我们仍预计将会有更多投资级高杠杆企业的信用评级被下调，高收益债券市场将出现一波违约潮。在股市大幅上涨之后，市场对这些风险的额外收益补偿已经不如几周前那么多了。我们建议投资者避免过多地投资于评级较低的公司债券，将重点放在那些资产负债表较强，能够经受住经济复苏起起落落的公司债券上。
+
+*High-yield spreads are now only 200 basis points above the 2019 closing level 高收益率息差目前仅比2019年收盘水平高出200个基点*
+
+![High-yield spreads are now only 200 basis points above the 2019 closing level](spread.png)
+
+Source: Bloomberg, using weekly data as of 6/5/2020. Option-adjusted spreads (OAS) are quoted as a fixed spread, or differentialm iver Y,S, Treasury issues. OAS is a method used in calculating the relative value of a fixed income security contiaing an embedded option, such as a borrower's option to prepay a loan. Past performance is no indicatioin of future results.
