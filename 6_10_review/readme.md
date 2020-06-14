@@ -12,9 +12,10 @@ In recent weeks, the gap between economists' estimates and actual May U.S. payro
 
 在最近几个礼拜中， 美国五月份收入数据上升同经济学家的预期之间大差距让花旗银行金融意外指数大跌眼镜（又要甩锅经济学家么）。这个统计相对市场预期实际数据带来的意外指数从3月份的低谷中渐渐恢复，证实了过去一周的数据保持良好的表现，虽然从客观的角度说还是较为弱势。
 
+*The Citi Economic Surprise Index rose sharply recently 花旗经济意外指数近期大幅上升*
+
 ![The Citi Economic Surprise Index rose sharply recently 花旗经济意外指数近期大幅上升](Citi.png "花旗经济意外指数近期大幅上升")
 
-*The Citi Economic Surprise Index rose sharply recently 花旗经济意外指数近期大幅上升*
 
 Source: Charles Schwab, Bloomberg, as of 6/10/2020.
 
@@ -29,6 +30,8 @@ As US stocks rallied off the March lows, measures of investor sentiment followed
 As you can see in the chart below, Ned Davis Research's Crowd Sentiment Pool - a reflection of various sentiment indicators - has merged out of the 'extreme pessimism' zone and, as of June 9th, climbed well into extreme optimism territory. Extremes were also seen in options trading (as per recent findings by SentimenTrader) and huge spikes in hyped-up bankruptcy stocks' prices(as per Bloomberg).
 
 正如下图所示，Ned Davis Research的大众情绪池————反映各种情绪指标的指数————已经从“极端悲观”区合并，在6月9号为止爬升到极端乐观的区域。期权交易中也出现了极端情况（根据SentimenTrader最近的研究成果），破产股票（垃圾股）的价格也大幅飙升（彭博社报道）。
+
+*Investor sentiment has moved into the "extreme optimism" zone 投资者情绪已进入“极度乐观”区*
 
 ![Investor sentiment has moved into the "extreme optimism" zone](NedDavis.png)
 
@@ -46,6 +49,8 @@ The central bank's large-scale asset purchases have stoked fears of impending in
 
 央行的大规模资产购买引发了人们对通胀迫在眉睫的担忧，但近期风险似乎较低。如下图所示，即使货币供应量猛增，但货币流通四度却朝着相反的方向发展。为了制造通货膨胀，货币流通速度通常随着银行放贷的增加而增加；然而,银行目前正在资产负债表上积累资产，从而阻止货币流通。
 
+*Money Supply has increased, but money velocity has decreased 货币供应量增加了，但货币流通速率下降了*
+
 ![Money Supply has increased, but money velocity has decreased](m2.png)
 
 Source: Charles Schwab, Bloomberg, Federal Reserve Bank of St. Louis, as of 4/30/2020. M2 is a calculation of the money supply that includes cash and checking deposits, savings deposits, money market securities, mutual funds, and other time deposits. The velocity of money is the number of times one dollar is spent to buy goods and services per unit of time. If the velocity is increasing, then more transactions are occurring between individuals in an economy.
@@ -56,6 +61,8 @@ M2是货币供应量的计算，包括现金和支票存款，储蓄存款，货
 The United States was the only country to report a decline in its unemployment rate in May. However, from a global perspective, incoming real-time data have generally been much better than expected.
 
 美国是五月份唯一一个报告失业率下降的国家。然而，从全球的角度来看，收到的实时数据通常比预期的要好的多。
+
+*Unemployment usually lags the economic recovery 失业往往比经济复苏来得晚*
 
 ![Unemployment usually lags the economic recovery](unemployment.png)
 All countries reporting May unemployment rate as of 6/5/2020.
@@ -70,6 +77,8 @@ Our concern is the potential U.S. revocation of Hong Kong's zero tariff rate, wh
 
 我们担心美国可能撤销香港的零关税政策，这可能引发中国的报复，并随后提高香港对美国进口商品的税率。与美国对中国大陆的巨额贸易逆差相反，美国对香港的贸易顺差在2019年达到260亿美元。破坏这种关系对美国的伤害将大于对中国的伤害，因此不太可能采取行动。
 
+*U.S has a trade surplus with Hong Kong 美国与香港有贸易顺差*
+
 ![U.S has a trade surplus with Hong Kong](hk.png)
 
 Source: Charles Schwab, Bloomberg data as of 6/5/2020.
@@ -81,6 +90,8 @@ While we expect U.S. legislation related to the delisting of Chinese firms to be
 Despite the risks associated with increasing U.S.-China tensions, emerging market stocks seems to be focusing on China's V-shaped economic recovery. China's economy was both the first in and out in terms of imposing a lockdown. Weekly data we measure from independent sources (not from the Chinese government) are back in the green - reflecting the full recovery seen in China's widely-watched purchasing manager's index, as it rebounded above 50 - the threshold between contraction and expansion - in May.
 
 尽管中美关系日益紧张可能带来风险，但新兴市场似乎将注意力集中在中国V型经济复苏上。中国经济在实施封锁方面是第一个开始和结束的。我们从独立渠道获得的数据显示，5月份中国采购经理人指数（pmi)反弹至50点（介于收缩和扩张之间），反映出中国经济的全面复苏。
+
+*China recovery heat map as of June 6, 2020 截至2020年6月6日的中国恢复报告*
 
 ![China recovery heat map as of June 6, 2020](china.png)
 
@@ -97,5 +108,7 @@ We don't believe the tensions between the United States and China are a reason t
 Federal Reserve policy has been the major driver behind returns in the fixed income markets over the past few months. Since the Fed stepped in to help provide liquidity to the markets in mid-March, the yield curve has steepened and bonds in riskier segments of the market have outperformed Treasury bonds - trends that are associated with an improving economy. We continued to be concerned that the markets have been too optimistic about a rapid economic recovery.
 
 过去几个月，美联储的政策一直是推动固定收益市场的主要因素。自3月中旬美联储出售帮助向市场提供流动性以来，收益率曲线直线上扬，市场中风险较高板块的债券表现优于美国债券 ———— 这趋势与经济好转有关。我们仍旧担心市场对经济复苏过于乐观。
+
+*Fixed income asset class total returns, year-to-date 固定收益资产类别今年至今的总回报率*
 
 ![Fixed income asset class total returns, year-to-date](return.png)
