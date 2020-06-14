@@ -12,8 +12,7 @@ In recent weeks, the gap between economists' estimates and actual May U.S. payro
 
 在最近几个礼拜中， 美国五月份收入数据上升同经济学家的预期之间大差距让花旗银行金融意外指数大跌眼镜（又要甩锅经济学家么）。这个统计相对市场预期实际数据带来的意外指数从3月份的低谷中渐渐恢复，证实了过去一周的数据保持良好的表现，虽然从客观的角度说还是较为弱势。
 
-![The Citi Economic Surprise Index rose sharply recently 花旗经济意外指数近期大幅上升](Citi.png "花旗经济意外指数近期大幅上升")
-*The Citi Economic Surprise Index rose sharply recently 花旗经济意外指数近期大幅上升*
+![The Citi Economic Surprise Index rose sharply recently 花旗经济意外指数近期大幅上升](Citi.png "花旗经济意外指数近期大幅上升")*The Citi Economic Surprise Index rose sharply recently 花旗经济意外指数近期大幅上升*
 
 Source: Charles Schwab, Bloomberg, as of 6/10/2020.
 
