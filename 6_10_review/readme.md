@@ -46,3 +46,49 @@ Source: Charles Schwab, Bloomberg, Federal Reserve Bank of St. Louis, as of 4/30
 M2是货币供应量的计算，包括现金和支票存款，储蓄存款，货币市场证券，共同基金和其他定期存款。货币流通速度是指每单位时间内一美元用于购买商品和服务的次数。如果流通速度增加，那么在一个经济体中，个体之间就发生更多的交易。
 
 ## Global stocks and economy: Improving economy, deteriorating ralationship 全球股市与经济：经济改善，关系恶化
+The United States was the only country to report a decline in its unemployment rate in May. However, from a global perspective, incoming real-time data have generally been much better than expected.
+
+美国是五月份唯一一个报告失业率下降的国家。然而，从全球的角度来看，收到的实时数据通常比预期的要好的多。
+
+![Unemployment usually lags the economic recovery](unemployment.png)
+All countries reporting May unemployment rate as of 6/5/2020.
+
+Sources: Charles Schwab, Bloomberg data as of 6/5/2020.
+
+The deterioration in U.S. China relations may be a risk to otherwise-favorable economic news. U.S. President Donal Trump has announced a range of measures to recent Chinese actionis, including the passage of a new security law for Hong Kong. Yet the specific policies were relatively narrow in scope. Notably, the focus of tensions in 2018 and 2019 - the "phase one" trade agreement - was missing from the announcements. In response, global stock markets resumed their rally, led by emerging market stocks.
+
+美中关系恶化可能会给原本有利的经济消息带来风险。美国总统川普宣布了一系列措施针对中国最近的行动（包括通过香港安全法）。但具体政策范围相对狭窄。值得注意的是，2018年和2019年紧张局势的焦点“第一阶段”贸易协定在公告中并没有出现。作为回应，全球股市在新兴个股的带领下继续反弹。
+
+Our concern is the potential U.S. revocation of Hong Kong's zero tariff rate, which may spark retaliation from China and its subsequent lifting of Hong Kong's rate on imports of U.S. goods. Contrary to its large trade deficit with mainland China, the United States has a trade surplus with Hong Kong, valued at $26 billion in 2019. Damaging this relationship would hurt the United States more than China, making it an unlikely course of action.
+
+我们担心美国可能撤销香港的零关税政策，这可能引发中国的报复，并随后提高香港对美国进口商品的税率。与美国对中国大陆的巨额贸易逆差相反，美国对香港的贸易顺差在2019年达到260亿美元。破坏这种关系对美国的伤害将大于对中国的伤害，因此不太可能采取行动。
+
+![U.S has a trade surplus with Hong Kong](hk.png)
+
+Source: Charles Schwab, Bloomberg data as of 6/5/2020.
+
+While we expect U.S. legislation related to the delisting of Chinese firms to become law, it would be at least four years before it would affect current listings. In that time, the Chinese Securities Regulatory Commission could change its rules and allow U.S. audits of Chinese companies, avoiding any delisting. It's unlikely to be an issue for the companies themselves. Research has shown that Chinese American Depository Receipts (ADRs) are moret likely to be associated with a Big 4 accounting frim and are less likely to restate prior period financial statements than ADRs from other countries.
+
+虽然我们预计与中国公司退市有关的美国立法将成为法律，但至少需要四年才能影响到目前的上市公司。在此期间，中国证券管理委员会(csrc)可能会改变规则，允许美国审计中国公司，从而避免被摘牌。这对公司本身来说不太可能会成为一个问题。研究表明，中美存托凭证（adr）与四大会计frim关联的可能性更大，与其他国家的adr相比，不太可能重述前期财务报表（说明了中国上市公司没有退市风险，其他会计内容不懂）。
+
+Despite the risks associated with increasing U.S.-China tensions, emerging market stocks seems to be focusing on China's V-shaped economic recovery. China's economy was both the first in and out in terms of imposing a lockdown. Weekly data we measure from independent sources (not from the Chinese government) are back in the green - reflecting the full recovery seen in China's widely-watched purchasing manager's index, as it rebounded above 50 - the threshold between contraction and expansion - in May.
+
+尽管中美关系日益紧张可能带来风险，但新兴市场似乎将注意力集中在中国V型经济复苏上。中国经济在实施封锁方面是第一个开始和结束的。我们从独立渠道获得的数据显示，5月份中国采购经理人指数（pmi)反弹至50点（介于收缩和扩张之间），反映出中国经济的全面复苏。
+
+![China recovery heat map as of June 6, 2020](china.png)
+
+Source: Charles Schwab, World Health Organization, United Nations, china Passenger Car Association, Bloomberg, Box office Mojo, Macrobond data as of 6/5/2020.
+
+资料来源:Charles Schwab、世界卫生组织、联合国、中国乘用车协会、彭博社、Box office Mojo、Macrobond截至2020年5月6日的数据。
+
+We don't believe the tensions between the United States and China are a reason to avoid emerging market stocks. Historically, they have tended to lead rebounds coming out of bear markets. Not to mention, they typically benefit when global growth is improving and cyclical stocks are outperforming, which has been the case in recent weeks.
+
+我们不认为美国和中国之间的紧张关系是回避新兴市场的理由。从历史上看，他们往往会引领熊市反弹。更不用说，当全球经济增长好转，周期性股票表现出色时，他们通常会受益，最近几周就是这样。
+
+## Fixed income: Not much room to run from here 固定收益：没有太多的空间
+
+Federal Reserve policy has been the major driver behind returns in the fixed income markets over the past few months. Since the Fed stepped in to help provide liquidity to the markets in mid-March, the yield curve has steepened and bonds in riskier segments of the market have outperformed Treasury bonds - trends that are associated with an improving economy. We continued to be concerned that the markets have been too optimistic about a rapid economic recovery.
+
+过去几个月，美联储的政策一直是推动固定收益市场的主要因素。自3月中旬美联储出售帮助向市场提供流动性以来，收益率曲线直线上扬，市场中风险较高板块的债券表现优于美国债券 ———— 这趋势与经济好转有关。我们仍旧担心市场对经济复苏过于乐观。
+
+
