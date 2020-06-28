@@ -1,22 +1,21 @@
-# TFSA, RRSP and Dividend
-The RRSP offers greater tax benefits under the right circustances but the fact that you have to pay income taxes when you take out money from it makes it less flexible. The TFSA may not provide as many tax benefits as the RRSP, but since taking money out of it has no tax consequences, it's much more flexible.
+# 免税账户也得交税？聊一聊在加拿大怎样通过免税账户获得最多的股票分红
+大家好我是小白，今天和大家聊一聊加拿大免税账户的一些合理避税的方法。
 
-## RRSP
-RRSP contributions are tax-deductible. The contributions you make are deducted from your income for tax purposes. In other words, if you make $100,000 this year but add $10,000 to your RRSP throughout the year, you will be taxed as if you made $90,000 of income that year. Thanks to the tax deduction, if your income taxes are around 40%, you will be getting a ~$4000 tax reund after filing your taxes. However, since RRSP withdrawls are taxed like income, you will eventually pay taxes on the withdrawals, but at a lower tax rate in the future if your income is lower at reitrement than throughout your working years.
-To use the RRSP properly, you need to make sure that your tax bracket is high when you are contributing ot it but that your tax bracket is low when you withdraw from it.
-
-You should generally invest in an RRSP if:
-* You are investing for retirement, and making more than 50,000 a year and don't expect your income to grow significantly.
-* You are investing fro retirement and making over $90,000 a year.
-* You are investing towards your first home, are making more than 50,000 a year, and plan to use your RRSP for a Home buyer's plan
-* You are investing towards your education, are making more than $50,000 a year, and plan to use your RRSP for a lifelong learning plan
+常用的免税账户有TSFA（免税储蓄账户）和RRSP（注册退休储蓄计划）
 
 # TFSA
-The TFSA is a simpler tool that allows your investment to grow tax-free but doesn't provide the tax-deduction benefits of the RRSP. It's ideal for objectives that are earlier than retirement but can also be used fro retirement in certain cases.
+免税储蓄账户(TFSA)是一种注册税收优惠储蓄账户，可帮助您赚取免税收入，为下一次大额消费攒够资金。 您可以假设免税储蓄账户是一个篮子，篮子内可以摆放符合条件的投资产品，其产生的利息、资本收益与股息分派均无需纳税。
+- 每年会新增TFSA定额， 2020年为2000加币
+- 所有投资产品的收益不需要交税，但是美股所产生的分红(Dividend)仍需交税
+- 可以随时提取所需金额，而无需为这些取款纳税。此外，取款时也不会损失供款限额，可以在来年或其后任一年度重新向TFSA缴纳所提取的金额。
 
-You should invest in a TFSA if:
-* You are investing towards an objective that is sooner than retirement (a home, wedding, vacation, car, etc)
-* You are investing for retirement and are making less than $50,000
-* You are investing for retirement, are making more than $50,000, but expect your salary to go up significantly. Using a TFSA in this case allows you to use your RRSP contribution room later, when you are at a higher tax bracket, to take advantage of a greater tax deduction.
+# RRSP
+作为政府提倡公众为退休作储蓄准备的方法，RRSP可以说是在加拿大最常见的注册账户之一。 所谓RRSP，全称Registered Retirement Saving Plan，中文为注册退休储蓄计划，是一种以退休储蓄为目的、视收入情况为户主延税的注册账户类别。 RRSP最大的特点就是所有存入的资金将可得到相应的税务减免。
+- 所有投资产品的收益暂时不需要交税，包括投资美股产生的分红
+- 提取时取款额度需要算入当年的个人所得，按照当年个人所得交税
+- 第一次买房可以从RRSP提取最多35,000刀而无需交税，取款两年后开始还款，RRSP还款期限为15年
 
-If an RRSP is right for you, consider maximizing your RRSP contributions to get a larger tax refund and put that refund into your TFSA
+# Summary
+- 在买房前存够35000 RRSP
+- 有条件的话存满TSFA
+- 用RRSP购买有分红的美股获得最大收益
